@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a sentiment analysis system to classify X posts (tweets) as Positive, Negative, or Neutral using Natural Language Processing (NLP). Built with a Kaggle dataset, it showcases text preprocessing, exploratory data analysis (EDA), and machine learning with a Logistic Regression model. The project is designed to monitor social media sentiment and is ideal for demonstrating NLP and data science skills.
-
+ 
 ## Dataset
 - **Name**: [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 - **Source**: Kaggle
